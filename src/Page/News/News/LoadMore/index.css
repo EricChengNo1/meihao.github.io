@@ -1,0 +1,16 @@
+.load-more{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    height:30px;
+}
+
+.load-more-content{
+    border:1px solid blue;
+    border-radius: 15px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:30%;
+    color: blue;
+}
